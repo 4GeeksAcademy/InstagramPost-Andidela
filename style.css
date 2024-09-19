@@ -4,3 +4,19 @@ body {
 .post {
     background-color: white;
 }
+.icons {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    display: flex;
+}
+.html {
+    font-size: 30px;
+}
+.letters {
+    margin-left: 10px;
+}
+.circles {
+    margin-left: 280px;
+    font-size: 30px;
+}
