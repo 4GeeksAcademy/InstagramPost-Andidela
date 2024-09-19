@@ -1,8 +1,12 @@
 body {
     background-color: black;
+    display: flex;
+    padding-left: 230px;
+    padding-top: 30px;
 }
 .post {
     background-color: white;
+    width: 400px
 }
 .icons {
     padding-top: 10px;
@@ -17,6 +21,25 @@ body {
     margin-left: 10px;
 }
 .circles {
-    margin-left: 280px;
+    margin-left: 275px;
     font-size: 30px;
+}
+.post-icons {
+    display: flex;
+    font-size: 28px;
+}
+.heart {
+    margin: 5px 5px 5px 10px;
+}
+.comment {
+    margin: 5px 5px 5px 0px;
+}
+.send {
+    margin: 5px 5px 5px 0px;
+}
+.save {
+    padding-left: 253px;
+}
+.post-body {
+    padding: 0px 10px 10px 10px;
 }
