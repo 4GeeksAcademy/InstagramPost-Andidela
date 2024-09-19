@@ -27,6 +27,7 @@ body {
 .post-icons {
     display: flex;
     font-size: 28px;
+    padding-top: 10px;
 }
 .heart {
     margin: 5px 5px 5px 10px;
